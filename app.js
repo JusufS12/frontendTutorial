@@ -1,3 +1,3 @@
 function onButtonPress() {
-	console.log("Button pressed!");
+	alert("Button pressed!");
 }
