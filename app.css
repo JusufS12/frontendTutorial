@@ -1,6 +1,6 @@
 body {
 	background-color: #121212;
-}	
+}
 
 .navbar {
 	width: auto;
@@ -8,8 +8,6 @@ body {
 }
 
 .parent {
-	width: auto;
-	height: auto;
 	display: flex;
 	justify-content: center;
 	align-items: center;
