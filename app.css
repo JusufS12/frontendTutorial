@@ -1,14 +1,27 @@
 body {
+	color: aliceblue;
 	background-color: #121212;
 }
 
 .navbar {
 	width: auto;
-	height: auto;
+	height: 50px;
+	background-color: #121212;
 }
 
 .parent {
 	display: flex;
-	justify-content: center;
-	align-items: center;
+	justify-content: flex-start;
+	align-items: auto;
+	height: 5000px;
+}
+
+.side-bar {
+	width: 200px;
+	background-color: aliceblue;
+}
+
+.main {
+	background-color: antiquewhite;
+	flex-grow: 1;
 }
